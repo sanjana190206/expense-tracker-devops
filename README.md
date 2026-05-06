@@ -216,7 +216,7 @@ Deployment
 
 The application is deployed on Vercel at:
 
-- Frontend: [https://expense-tracker-app-manthanank.vercel.app/](https://expense-tracker-app-manthanank.vercel.app/)
+- Frontend: Local deployment: http://localhost:4200
 
 Backend can be deployed separately (e.g., on services like Render, Railway, or any Node-compatible host) with the same environment variables as in local `.env`.
 
@@ -230,5 +230,5 @@ Contact
 
 For questions or feedback:
 
-- Email: [manthan.ank@gmail.com](mailto:manthan.ank@gmail.com)
-- GitHub: [manthanank](https://github.com/manthanank)
+- Email: mlssanjana1906@gmail.com
+- GitHub: sanjana190206
